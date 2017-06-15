@@ -1,0 +1,79 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Dev\QuakeReport\app\src\main\AndroidManifest.xml:16:1-44:12
+	package
+		ADDED from D:\Dev\QuakeReport\app\src\main\AndroidManifest.xml:17:5-46
+		INJECTED from D:\Dev\QuakeReport\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Dev\QuakeReport\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Dev\QuakeReport\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Dev\QuakeReport\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Dev\QuakeReport\app\src\main\AndroidManifest.xml:16:11-69
+	android:versionCode
+		INJECTED from D:\Dev\QuakeReport\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Dev\QuakeReport\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\Dev\QuakeReport\app\src\main\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from D:\Dev\QuakeReport\app\src\main\AndroidManifest.xml:19:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Dev\QuakeReport\app\src\main\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from D:\Dev\QuakeReport\app\src\main\AndroidManifest.xml:20:22-76
+application
+ADDED from D:\Dev\QuakeReport\app\src\main\AndroidManifest.xml:22:5-42:19
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\catge\.android\build-cache\f14e0a5688a1d177cd00bc82a6a53a85bc51292f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\catge\.android\build-cache\64b67f48f9d40d7d09fa35321b3ec0363f516f9a\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\catge\.android\build-cache\6d107ce726f5544843b96f08cc26a39b9e9ff925\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\catge\.android\build-cache\8a58b338333d34aa1a095010ada7c5f79723748b\output\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\Dev\QuakeReport\app\src\main\AndroidManifest.xml:25:9-41
+	android:supportsRtl
+		ADDED from D:\Dev\QuakeReport\app\src\main\AndroidManifest.xml:26:9-35
+	android:allowBackup
+		ADDED from D:\Dev\QuakeReport\app\src\main\AndroidManifest.xml:23:9-35
+	android:icon
+		ADDED from D:\Dev\QuakeReport\app\src\main\AndroidManifest.xml:24:9-43
+	android:theme
+		ADDED from D:\Dev\QuakeReport\app\src\main\AndroidManifest.xml:27:9-40
+activity#com.example.android.quakereport.EarthquakeActivity
+ADDED from D:\Dev\QuakeReport\app\src\main\AndroidManifest.xml:28:9-33:20
+	android:name
+		ADDED from D:\Dev\QuakeReport\app\src\main\AndroidManifest.xml:28:19-53
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Dev\QuakeReport\app\src\main\AndroidManifest.xml:29:13-32:29
+action#android.intent.action.MAIN
+ADDED from D:\Dev\QuakeReport\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from D:\Dev\QuakeReport\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Dev\QuakeReport\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from D:\Dev\QuakeReport\app\src\main\AndroidManifest.xml:31:27-74
+activity#com.example.android.quakereport.SettingsActivity
+ADDED from D:\Dev\QuakeReport\app\src\main\AndroidManifest.xml:35:9-41:20
+	android:label
+		ADDED from D:\Dev\QuakeReport\app\src\main\AndroidManifest.xml:37:13-51
+	android:name
+		ADDED from D:\Dev\QuakeReport\app\src\main\AndroidManifest.xml:36:13-45
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\Dev\QuakeReport\app\src\main\AndroidManifest.xml:38:13-40:85
+	android:value
+		ADDED from D:\Dev\QuakeReport\app\src\main\AndroidManifest.xml:40:17-83
+	android:name
+		ADDED from D:\Dev\QuakeReport\app\src\main\AndroidManifest.xml:39:17-63
+uses-sdk
+INJECTED from D:\Dev\QuakeReport\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\catge\.android\build-cache\f14e0a5688a1d177cd00bc82a6a53a85bc51292f\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\catge\.android\build-cache\64b67f48f9d40d7d09fa35321b3ec0363f516f9a\output\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\catge\.android\build-cache\6d107ce726f5544843b96f08cc26a39b9e9ff925\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\catge\.android\build-cache\8a58b338333d34aa1a095010ada7c5f79723748b\output\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.3.0] C:\Users\catge\.android\build-cache\f14e0a5688a1d177cd00bc82a6a53a85bc51292f\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Dev\QuakeReport\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Dev\QuakeReport\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Dev\QuakeReport\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Dev\QuakeReport\app\src\main\AndroidManifest.xml

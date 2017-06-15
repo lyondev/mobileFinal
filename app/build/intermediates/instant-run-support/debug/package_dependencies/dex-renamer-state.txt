@@ -1,0 +1,19 @@
+#Wed Jun 14 18:51:33 PDT 2017
+renamed.5=classes2.dex
+renamed.4=classes5.dex
+renamed.3=classes6.dex
+renamed.2=classes3.dex
+renamed.1=classes.dex
+renamed.0=classes4.dex
+base.5=D\:\\Dev\\QuakeReport\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_8411e090c9bc8bf60750ad7d103d9f56527f48f5
+base.4=D\:\\Dev\\QuakeReport\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.3.0_c46f223db9ccf9bd13c94cfc31071b5823010378
+base.3=D\:\\Dev\\QuakeReport\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.3.0_93dbf7147caf89aed80526a16519d0d77c95e090
+base.2=D\:\\Dev\\QuakeReport\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f23b166ebb44a461b97149af7679d0dd40a5daf1
+base.1=D\:\\Dev\\QuakeReport\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_475c38d2bac7d05d5200b3e00cf1cdfae0c1923a
+base.0=D\:\\Dev\\QuakeReport\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f7b29bfe2d57b9225452aa10aec9c68573e08e0f
+file.5=D\:\\Dev\\QuakeReport\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_8411e090c9bc8bf60750ad7d103d9f56527f48f5\\classes.dex
+file.4=D\:\\Dev\\QuakeReport\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.3.0_c46f223db9ccf9bd13c94cfc31071b5823010378\\classes.dex
+file.3=D\:\\Dev\\QuakeReport\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.3.0_93dbf7147caf89aed80526a16519d0d77c95e090\\classes.dex
+file.2=D\:\\Dev\\QuakeReport\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f23b166ebb44a461b97149af7679d0dd40a5daf1\\classes.dex
+file.1=D\:\\Dev\\QuakeReport\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_475c38d2bac7d05d5200b3e00cf1cdfae0c1923a\\classes.dex
+file.0=D\:\\Dev\\QuakeReport\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f7b29bfe2d57b9225452aa10aec9c68573e08e0f\\classes.dex
